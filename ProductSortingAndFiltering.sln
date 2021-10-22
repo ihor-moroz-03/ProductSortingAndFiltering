@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductSortingAndFiltering", "ProductSortingAndFiltering.csproj", "{6AF509DA-7192-4E97-AF61-622349A6C834}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms", "..\Algorithms\Algorithms.csproj", "{DA9007BB-61BE-4F18-A0A6-CE632CEDE715}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Store", "..\Store\Store.csproj", "{5887C654-F15D-4949-8905-3EF58CB6D858}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{6AF509DA-7192-4E97-AF61-622349A6C834}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AF509DA-7192-4E97-AF61-622349A6C834}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AF509DA-7192-4E97-AF61-622349A6C834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA9007BB-61BE-4F18-A0A6-CE632CEDE715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9007BB-61BE-4F18-A0A6-CE632CEDE715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9007BB-61BE-4F18-A0A6-CE632CEDE715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9007BB-61BE-4F18-A0A6-CE632CEDE715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5887C654-F15D-4949-8905-3EF58CB6D858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5887C654-F15D-4949-8905-3EF58CB6D858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5887C654-F15D-4949-8905-3EF58CB6D858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5887C654-F15D-4949-8905-3EF58CB6D858}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
